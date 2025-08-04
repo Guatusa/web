@@ -1,5 +1,4 @@
-import React from "react";
-import { FaArrowRight } from "react-icons/fa"; // Importa el ícono de flecha
+import { FaArrowRight } from "react-icons/fa";
 
 const CabanaCard = ({ image, title, description, link }) => {
   return (

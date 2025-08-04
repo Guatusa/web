@@ -15,7 +15,7 @@ const AccommodationInfo = () => {
   };
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-8">
       {/* Imagen Activa */}
       <div className="relative mb-6 group"> {/* Se añadió la clase "group" aquí */}
         <div className="w-full h-[320px] md:h-[480px] overflow-hidden rounded-lg">

@@ -45,8 +45,9 @@ const resources = {
         "what_we_do_description": "In Juanilama, we offer you an authentic experience in the heart of Costa Rican nature. Enjoy activities that connect you with our culture, environment, and traditions.",
         
         "services.tours": "Tours",
-        "services.workshopsActivities": "Workshops And Activities",
-        "services.specialPrograms": "Special Programs",
+        "services.workshopsActivities": "Workshops",
+        "services.classes": "Classes",
+        "services.specialPrograms": "Programs",
         "services.massages": "Massages",
 
         "map_title": "How to get to Juanilama?",
@@ -132,9 +133,10 @@ const resources = {
         "what_we_do_title": "Qué Hacemos",
         "what_we_do_description": "En Juanilama, te ofrecemos una experiencia auténtica en el corazón de la naturaleza costarricense. Disfruta de actividades que te conectan con nuestra cultura, medio ambiente y tradiciones.",
 
-        "services.tours": "Recorridos",
-        "services.workshopsActivities": "Talleres y Actividades",
-        "services.specialPrograms": "Programas Especiales",
+        "services.tours": "Visitas guiadas",
+        "services.workshopsActivities": "Talleres",
+        "services.classes": "Clases",
+        "services.specialPrograms": "Programas",
         "services.massages": "Masajes",
 
         "map_title": "¿Cómo llegar a Juanilama?",

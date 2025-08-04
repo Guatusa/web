@@ -388,12 +388,24 @@ export const services = [
     },
     { 
         id: 3,
+       // src: masaje2, 
+       src: "https://images.unsplash.com/photo-1432462770865-65b70566d673?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        title: 'services.classes' 
+    },
+    { 
+        id: 4,
        // src: actividad,
        src: "https://images.unsplash.com/photo-1682407186023-12c70a4a35e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80",
         title: 'services.specialPrograms' 
     },
     { 
-        id: 4,
+        id: 5,
+       // src: masaje2, 
+       src: "https://images.unsplash.com/photo-1432462770865-65b70566d673?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        title: 'services.massages' 
+    } ,
+    { 
+        id: 6,
        // src: masaje2, 
        src: "https://images.unsplash.com/photo-1432462770865-65b70566d673?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
         title: 'services.massages' 
